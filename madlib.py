@@ -1,0 +1,6 @@
+City = input("Enter City: ")
+color = input("Enter a color: ")
+celebrity= input("Enter a celebrity: ")
+print (celebrity, ' lives in ' + City + "," )
+print (celebrity + ' likes color ' + color + "," )
+print (celebrity + ' lives in ' + City + " and loves color " + color + "\n")

@@ -62,7 +62,7 @@ def sum_of_digits(number):
     return digit_sum
 
 # Example usage
-input_number = [12,13,14,15]
+input_number = [12,13,14,15,1,121212321]
 result = sum_of_digits(input_number)
 print("Sum of digits in", input_number, "is", result)
 

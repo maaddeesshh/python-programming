@@ -14,4 +14,4 @@ student3 = Student("Omollo", 19)
 # Call greet() for each student
 student1.greet()  # Output: Hello, my name is Eugene
 student2.greet()  # Output: Hello, my name is Max
-student3.greet()  # Output: Hello, my name is Max
+student3.greet()  # Output: Hello, my name is Omollo

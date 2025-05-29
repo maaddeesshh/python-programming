@@ -11,7 +11,7 @@ Student1 = Student("Eugene", 17, 9)
 
 print(Student1.get_info())
 # print(Student1.name)
-
+print(type(Student1))
 
 
 
